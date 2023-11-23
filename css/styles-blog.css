@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(158, 166, 219) !important; /* Cambia el color de fondo del cuerpo */
+    color: #333; /* Cambia el color del texto del cuerpo */
+}
+
+.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: rgba(57, 167, 116, 0.993) !important;
+}
+
+
+
+#zona-encabezado {
+    color: white;
+    text-align: center;
+    background: #00204a;
+}
+
+#zona-imagenes {
+    text-align: center;
+	background: #005792; 
+}
+
+#zona-imagenes img {
+    width: 300px;
+    height: 180px;
+}
+
+#zona-cuerpo {
+    width: 85%;
+	background: #65a8bb; 
+}
+
+#zona-final {
+    text-align: right;
+    color: black;
+    opacity: 0.6;
+	background: #fdb44b; 
+}
+.imagen {
+    width: 40%;
+    border: 1px solid #1B4F72;
+    float: right;
+    }
